@@ -3,9 +3,9 @@
 This repository contains a Machine Learning project focused on diagnosing breast cancer using the standard **Wisconsin Breast Cancer Dataset**[cite: 1]. The primary objective is to train, evaluate, and compare multiple classification algorithms to achieve the highest possible accuracy and recall for medical diagnosis[cite: 1].
 
 ## 📊 Dataset Overview
-- **Samples:** 569[cite: 1]
-- **Features:** 30 numeric attributes[cite: 1]
-- **Classes:** Malignant and Benign[cite: 1]
+- **Samples:** 569
+- **Features:** 30 numeric attributes
+- **Classes:** Malignant and Benign
 
 ## 🛠️ Tech Stack & Workflow
 The project is implemented in **Python** using the following libraries[cite: 1]:
